@@ -1,2 +1,3 @@
 # MassNetworkSwitcher
-MassNetworkSwitcher (MNS) is a open source development based on python with a java based gui for mass name change and such for network routers
+MassNetworkSwitcher (MNS) is a open source development based on python with a javascript based gui for a easier controll over multiple wireless or wired network switches, routers etc.
+
